@@ -1,76 +1,76 @@
 0_ListaPinturas
 
 
-va gc succubus skin
-ak anthracite grey
-ak volcanic yellow
-vagc piel sucubo
-vamc tan earth
-ak luminous orange
-vama gungrey
-ak rusty gold
-gsw fluorescent yellow orange	R
-vaga nocturanal red
-ak gold 
-ak silver
-ak spectrum blue
-ak leather brown 
-ak black 
-ak fluorescent yellow
-vagc fluorescent red
-ak silver grey
-va gc black
-ak dark sea blue
-va gc ink white				R
-ak ducat blue
 ak amethyst blue
-ak neutral grey
-va xc martian orange		R
-va ga Sombre grey
-va ga wall grey
-va xc black lotus
-va xc Landser grey
-va ga midnight purple		R
-va ga bloody red
-va gc ink red
-ak wine red					R
-ak burnt red
-ak dirty red
-ak metal medium
-s75 decayed metal
-ak deep green				R
-va mc cold white
-ak scarlett red
-va mc gold
-va mecha fluorescent green 
-va mc fluorescent magenta
-ak dark prussian blue
-ak german grey
-ak black green
-s75 white	
-s75 dwarven gold
-ak Radiant Flesh
-ak Grim Brown
-ak German Grey
+ak anthracite grey
 ak Basalt Grey
-ak Light Earth
-va mecha metallic blue
-ak ice yellow
+ak black 
+ak black green
 ak brown Rose R
-ak intense pink
-vama armor brown 
-va violet ink
-ak emerald 
-ak deep red
+ak burnt red
+ak dark prussian blue
+ak dark sea blue
 ak deep brown
+ak deep green				R
+ak deep red
+ak dirty red
+ak ducat blue
+ak emerald 
+ak fluorescent yellow
+ak german grey
+ak German Grey
+ak gold 
+ak Grim Brown
+ak ice yellow
+ak intense pink
+ak leather brown 
+ak Light Earth
 ak luminous flesh
-vama gun metal
-va warm grey
-va xpress color 
-va black ink
-ak violet red
+ak luminous orange
+ak metal medium
+ak neutral grey
+ak Radiant Flesh
+ak rusty gold
+ak scarlett red
 ak sepia ink
 ak sickly pink
+ak silver
+ak silver grey
+ak spectrum blue
+ak violet red
+ak volcanic yellow
+ak wine red					R
+gsw fluorescent yellow orange	R
+s75 decayed metal
+s75 dwarven gold
+s75 white	
+va black ink
+va ga bloody red
+va ga midnight purple		R
+va ga Sombre grey
+va ga wall grey
+va gc black
+va gc ink red
+va gc ink white				RR
+va gc succubus skin
+va mc cold white
+va mc fluorescent magenta
+va mc gold
+va mecha fluorescent green 
+va mecha metallic blue
+va violet ink
+va warm grey
+va xc black lotus
+va xc Landser grey
+va xc martian orange		R
+va xpress color 
+vaga nocturanal red
+vagc fluorescent Red 		R
+vagc piel sucubo
+vama armor brown 
+vama gun metal
+vama gungrey
+vamc tan earth
 
 
 Guerrero clan (old world):
@@ -79,11 +79,20 @@ Guerrero clan (old world):
 	ropa verde: zenit/wash -> camo green + deep shades medium
 	barba: sobre zenit/wash -> sienna + deep shades
 	cuernos:
-	piel: dark oath contrast
+	piel: brown rose -> dark oath -> brown rose + luminous flesh
 
 Tyranid
-	Piel: zenit/wash -> tinta magenta + tinta blanca¿?
-		luces + sickly pink -> sombras luxion purple
+
+Blue Horror
+	piel
+		amethist blue -> zenith ducati blue
+		luz ducati blue + luminous flesh
+		limpiar
+		sombras luxion + ducati
+	base
+		turquoise ink
+	llamas
+		blanco -> halo -> amarillo fluo -> naranja fluo -> rojo fluo -> rojo ink
 
 
 
